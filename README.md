@@ -1,1 +1,1 @@
-"# this is an Git course file" 
+# this is an Git course file
